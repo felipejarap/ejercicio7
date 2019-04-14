@@ -1,0 +1,50 @@
+/* From here onwards, all classes are included by Zamiz */
+.superior-section {
+  background-image: url("images/bg.jpeg");
+  object-fit: fill;
+}
+.logo {
+  max-width: 20%;
+}
+
+.navbar-brand {
+  margin-left: 0.5rem;
+}
+
+.superior-section h1{
+  color: white;
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.superior-section p{
+  color: white;
+  text-align: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.superior-section button{
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+}
+
+.top-nav {
+  padding-top: 0.5rem;
+}
+
+.img-fluid-adjusted {
+  max-width: 80%;
+}
+
+.jumbotron p {
+  margin-top: 0.75rem;
+
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 0.5rem 0;
+}
